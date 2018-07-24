@@ -1,6 +1,6 @@
 package Animal;
 
-public class Main {
+public class Main extends Object {
 
     public static void main(String[] args) {
         Animal animal= new Animal("A",1, 1, 1,1);
